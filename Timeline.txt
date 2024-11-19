@@ -1,0 +1,12 @@
+Timeline to keep track of
+
+24/10 - Assignment received
+
+24/10 to 3/11 - Learnt python from scratch and about keylogging softwares
+
+5/11 - 10/11 - Basic elements added to code like keystroke capturing, screenshot capturing
+12/11 - worked on microphone capturing
+14/11 - 17/11 - worked on standard encryption
+18/11 - final touchup and minor additions to code ( had problems in sending email to receiver...tried solving but couldn't)
+
+19/11 - submitted
